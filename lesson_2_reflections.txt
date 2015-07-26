@@ -6,3 +6,7 @@ How is the staging area different from the working directory and the repository?
 
 Working directory is the current directory youre working on, and staging are is what is going to be commited
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It helps us make other version of the project without losing the main one
+
