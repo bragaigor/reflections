@@ -1,0 +1,22 @@
+Git is a version controller
+
+It allows commits and merges
+
+Collaborative work among peers
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+I would be able to compare the old version with the new, and what has been modified
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+Pros: good judgement, good amount of version kept
+Cons: User may forget to save/commit
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+They might be related to one another
+
+How can you use the commands git log and git diff to view the history of files?
+Git log to check all commits from that repository
+Git diff to see what was changed from one commit to the other
+
+How might using version control make you more confident to make changes that could break something?
+It allows us to check older versions and what was changed, and if a bug is introduced we can go back and see what was changed in order to cause such bug

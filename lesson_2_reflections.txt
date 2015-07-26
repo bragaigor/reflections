@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A branch master is created and I need it to make any commits in the future
+
+
