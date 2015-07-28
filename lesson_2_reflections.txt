@@ -10,3 +10,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 It helps us make other version of the project without losing the main one
 
+How do the diagrams help you visualize the branch structure?
+They help me see which branches I'm in and which branches exists
+
