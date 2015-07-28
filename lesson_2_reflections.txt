@@ -17,3 +17,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 It's easier to follow, and the result are the changes made in both branches.
 
+What are the pros and cons of Gits automatic merging vs. always doing merges manually?
+
+Conflict needs to be assessed manually which is a good thing.
+
