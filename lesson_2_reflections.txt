@@ -16,6 +16,7 @@ They help me see which branches I'm in and which branches exists
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 It's easier to follow, and the result are the changes made in both branches.
+Adding line for testing
 
 What are the pros and cons of Gits automatic merging vs. always doing merges manually?
 
